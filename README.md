@@ -1,5 +1,5 @@
 # Csharp-maths-functions
-This is a console app with a list of a few Maths functions.
+This includes examples of how to use certain C# Maths functions.
 
 These functions include:
 * Math.Max()
